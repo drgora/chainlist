@@ -87,6 +87,7 @@ export default {
   "1284": "moonbeam",
   "1285": "moonriver",
   "1329": "sei",
+  "1409": "vflow volta testnet",
   "1440": "living assets mainnet",
   "1514": "sty",
   "1559": "tenet",
